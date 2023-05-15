@@ -1,3 +1,5 @@
+[![Build Status](https://circleci.com/gh/wk8/go-error-buffer.svg?style=svg)](https://app.circleci.com/pipelines/github/wk8/go-error-buffer)
+
 # go-error-buffer
 
 A tiny library that makes it easy to make sure you don't have too many errors happening too fast.

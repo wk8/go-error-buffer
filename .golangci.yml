@@ -23,7 +23,6 @@ linters:
     - forbidigo
     - funlen
     - gci
-    - gochecknoglobals
     - gochecknoinits
     - gocognit
     - goconst

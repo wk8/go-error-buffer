@@ -1,4 +1,4 @@
-package go_error_buffer
+package errorbuffer
 
 import (
 	"time"
